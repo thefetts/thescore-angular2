@@ -1,5 +1,6 @@
-# Thescore
+# TheScore
 
+Learning Angular2 by rewriting my What's The Score? app in it.
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.17.
 
 ## Development server
