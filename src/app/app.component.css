@@ -1,0 +1,17 @@
+.scorebox {
+  border: 1px solid black;
+  border-radius: 3px;
+  padding: 15px;
+  width: 100px;
+  display: inline-block;
+  margin: 15px;
+}
+
+.score {
+  font-size: 48px;
+}
+
+#content {
+  font-family: Arial, serif;
+  text-align: center;
+}
